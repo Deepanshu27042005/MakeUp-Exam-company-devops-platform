@@ -314,3 +314,4 @@ company-devops-platform/
 ✅ CI/CD Pipeline Implementation (GitHub Actions)  
 ✅ SonarQube Integration  
 ✅ Open Policy Agent (OPA) Policy Enforcement
+Updated CI workflow setup
