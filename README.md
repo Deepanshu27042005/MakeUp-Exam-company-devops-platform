@@ -315,3 +315,4 @@ company-devops-platform/
 ✅ SonarQube Integration  
 ✅ Open Policy Agent (OPA) Policy Enforcement
 Updated CI workflow setup
+CI workflow trigger update
